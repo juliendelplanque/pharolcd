@@ -1,0 +1,7 @@
+*.changes
+*.image
+*.log
+*.sources
+github-cache
+package-cache
+play-cache
