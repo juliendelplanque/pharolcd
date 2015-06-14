@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfLCDClient",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfLCDClient",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
