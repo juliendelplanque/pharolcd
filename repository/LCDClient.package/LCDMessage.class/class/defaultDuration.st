@@ -1,0 +1,3 @@
+default
+defaultDuration
+	^10

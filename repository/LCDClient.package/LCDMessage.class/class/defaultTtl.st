@@ -1,0 +1,3 @@
+default
+defaultTtl
+	^60

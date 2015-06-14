@@ -1,0 +1,3 @@
+default
+defaultRepeat
+	^1

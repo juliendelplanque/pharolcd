@@ -1,0 +1,1 @@
+I represent a LCDMessage to send to the LCDDaemon.

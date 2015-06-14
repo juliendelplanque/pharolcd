@@ -1,0 +1,1 @@
+A LCDMessageTest is a test class for testing the behavior of LCDMessage

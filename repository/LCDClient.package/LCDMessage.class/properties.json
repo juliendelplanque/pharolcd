@@ -1,0 +1,19 @@
+{
+	"category" : "LCDClient",
+	"classinstvars" : [
+		"mapper" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 6/12/2015 19:44",
+	"instvars" : [
+		"contents",
+		"sender",
+		"duration",
+		"ttl",
+		"repeat",
+		"otherArgsDict" ],
+	"name" : "LCDMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
