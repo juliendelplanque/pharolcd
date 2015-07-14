@@ -1,7 +1,9 @@
 {
 	"class" : {
-		"withServer:" : "JulienDelplanque 6/12/2015 19:39" },
+		"withServer:port:" : "JulienDelplanque 7/14/2015 21:48" },
 	"instance" : {
-		"sendMessage:" : "JulienDelplanque 6/12/2015 22:16",
-		"serverUrl" : "JulienDelplanque 6/13/2015 12:00",
-		"serverUrl:" : "JulienDelplanque 6/12/2015 22:15" } }
+		"sendMessage:" : "JulienDelplanque 7/14/2015 21:44",
+		"serverAddress" : "JulienDelplanque 7/14/2015 21:45",
+		"serverAddress:" : "JulienDelplanque 7/14/2015 21:46",
+		"serverPort" : "JulienDelplanque 7/14/2015 21:48",
+		"serverPort:" : "JulienDelplanque 7/14/2015 21:48" } }

@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 6/14/2015 12:45",
 	"instvars" : [
-		"serverUrl" ],
+		"serverAddress",
+		"serverPort" ],
 	"name" : "LCDClient",
 	"pools" : [
 		 ],
