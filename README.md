@@ -1,6 +1,6 @@
 # pharolcd
-A wrapper for the web interface of lcddaemon written in Pharo Smalltalk.
-See [LCDDaemon](https://github.com/juliendelplanque/lcddaemon)
+A wrapper for the tcp socket interface of lcddaemon written in Pharo Smalltalk.
+See [LCDDaemon](https://github.com/juliendelplanque/lcddaemon).
 
 ## Load this package
 ~~~
@@ -12,8 +12,8 @@ Metacello new
 
 ## Send a message to the lcddaemon
 ~~~
-"Of course, change the server url if needed."
-client := LCDClient withServer: 'http://localhost:4242'.
+"Of course, change the parameters if needed."
+client := LCDClient withServer: '127.0.0.1' port: 4242.
 
 response := client sendMessage: (LCDMessage withSender: 'Pharo' contents: 'Hello from Pharo.').
 ~~~
